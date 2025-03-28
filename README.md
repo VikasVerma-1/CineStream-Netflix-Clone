@@ -1,10 +1,12 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
+![Demo App](/frontend/public/Screenshot%202025-03-28%20105539.png)
 ![Demo App](/frontend/public/Screenshot 2025-03-28 105509.png)
 
 
 
-About This Course:
+
+About This Project:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 -   🔐 Authentication with JWT
@@ -43,4 +45,3 @@ npm run start
 
 ### THANK YOU ALL
 
-### I'll see you in the next one! 🚀
